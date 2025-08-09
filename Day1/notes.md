@@ -30,4 +30,5 @@ Identity Operators: is, is not
 
 Membership Operators: in, not in
 
-problems were made to do on codeforces and gave us practice on 1p basic python programs
+Problems were made to do on codeforces and gave us practice on 10 basic python programs
+
