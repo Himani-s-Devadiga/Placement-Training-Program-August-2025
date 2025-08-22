@@ -1,4 +1,4 @@
-#Program to check whether it is a leap year or not
+# Program to check whether it is a leap year or not
 year=int(input("Enter a year:"))
 if(year%100 and year%100!=0)or year%400==0:
     print("It is a leap year")
@@ -7,7 +7,7 @@ else:
 
 
 
-#Check whether the number is even or odd
+# Check whether the number is even or odd
 num=int(input("Enter the num:"))
 if (num&1)==0:
     print("Even")
@@ -16,7 +16,7 @@ else:
     
 
 
-#Write a program to swap two numbers
+# Write a program to swap two numbers
 a=int(input("Enter the number:"))
 b=int(input("Enter the number:"))
 a,b=b,a
@@ -25,7 +25,7 @@ print(b)
 
 
 
-#Codeforces(4(a))
+# Codeforces(4(a))
 w=int(input("Enter the weight of the watermelon"))
 if w%2==0:
     print("No")
@@ -37,7 +37,7 @@ else:
         print(x-1,x+1)
 
 
-#codeforces(617(A))
+# codeforces(617(A))
 #The Elephant Problem
 x=int(input())
 if x>5:
@@ -65,3 +65,4 @@ print(cost)
 
 
 #other basic 10 problems to practice were given
+
