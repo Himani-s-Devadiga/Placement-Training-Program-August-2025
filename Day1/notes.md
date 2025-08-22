@@ -6,18 +6,18 @@ There are 33 reserved words in Python
 ### 0perators
 There are 7 types of operators:
 Arithematic ,Relational,Logical,Bitwise,Assignment,Special operators 
-## Arithmetic operators
+### Arithmetic operators
 It involves addition,subtration ,multiplication and division
-## Relational operators
+### Relational operators
 <,>,=,<=,>=
-## Logical operators
+### Logical operators
 AND,OR,NOT
 ### Bitwise Operators
 - *AND* → &
 - *OR* → |
 - *XOR* → ^
 - *NOT (~)* → One’s complement
-- # Bit Shifts
+- #### Bit Shifts
   Example:  
   a = -45
   b = 7
@@ -26,13 +26,13 @@ AND,OR,NOT
   Example:
    10 << 2  # 40
    10 >> 2  # 2
-- ## Identity Operators
+- ### Identity Operators
 - is, not is
-- ## Membership operators
+- ### Membership operators
 - in ,not in
-- ## Special Operators
+- ### Special Operators
 - combination of Identity and membership operators
-- ## Assignment Operators
+- ### Assignment Operators
 - +=,==,*=,/=,**=,&=,^=
 
 ## EXTRA-NOTES:
@@ -54,6 +54,7 @@ AND,OR,NOT
 
 
 Problems were made to do on codeforces and gave us practice on 10 basic python programs
+
 
 
 
