@@ -20,6 +20,8 @@ AND,OR,NOT
 - is, not is
 - ## Membership operators
 - in ,not in
+- ## Special Operators
+- combination of Identity and membership operators
 - 
   Example:  
   ```python
@@ -40,12 +42,10 @@ Example:
 10 >> 2  # 2
 
 ---
-Special Operators
 
-Identity Operators: is, is not
 
-Membership Operators: in, not in
 
 Problems were made to do on codeforces and gave us practice on 10 basic python programs
+
 
 
