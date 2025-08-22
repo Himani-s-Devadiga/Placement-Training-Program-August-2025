@@ -40,20 +40,8 @@ AND,OR,NOT
 - Formula for left shift = x * 2**y
 - Left Shift: x << n → multiply by 2^n
 - Right Shift: x >> n → divide by 2^n (floor division)
--
+- Problems were made to do on codeforces and gave us practice on 10 basic python programs
 
-
-
-
-
-
-
-
----
-
-
-
-Problems were made to do on codeforces and gave us practice on 10 basic python programs
 
 
 
